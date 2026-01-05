@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2025-backlog/static/css/main.203989f3.css",
+    "main.js": "/2025-backlog/static/js/main.b867b34a.js",
+    "index.html": "/2025-backlog/index.html",
+    "main.203989f3.css.map": "/2025-backlog/static/css/main.203989f3.css.map",
+    "main.b867b34a.js.map": "/2025-backlog/static/js/main.b867b34a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.203989f3.css",
+    "static/js/main.b867b34a.js"
+  ]
+}
